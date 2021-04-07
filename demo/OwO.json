@@ -1,271 +1,1023 @@
 {
-    "颜文字": {
-        "type": "emoticon",
-        "container": [
-                {
-                    "icon": "OωO",
-                    "text": "Author: DIYgod"
-                },
-                {
-                    "icon": "|´・ω・)ノ",
-                    "text": "Hi"
-                },
-                {
-                    "icon": "ヾ(≧∇≦*)ゝ",
-                    "text": "开心"
-                },
-                {
-                    "icon": "(☆ω☆)",
-                    "text": "星星眼"
-                },
-                {
-                    "icon": "（╯‵□′）╯︵┴─┴",
-                    "text": "掀桌"
-                },
-                {
-                    "icon": "￣﹃￣",
-                    "text": "流口水"
-                },
-                {
-                    "icon": "(/ω＼)",
-                    "text": "捂脸"
-                },
-                {
-                    "icon": "∠( ᐛ 」∠)＿",
-                    "text": "给跪"
-                },
-                {
-                    "icon": "(๑•̀ㅁ•́ฅ)",
-                    "text": "Hi"
-                },
-                {
-                    "icon": "→_→",
-                    "text": "斜眼"
-                },
-                {
-                    "icon": "୧(๑•̀⌄•́๑)૭",
-                    "text": "加油"
-                },
-                {
-                    "icon": "٩(ˊᗜˋ*)و",
-                    "text": "有木有WiFi"
-                },
-                {
-                    "icon": "(ノ°ο°)ノ",
-                    "text": "前方高能预警"
-                },
-                {
-                    "icon": "(´இ皿இ｀)",
-                    "text": "我从未见过如此厚颜无耻之人"
-                },
-                {
-                    "icon": "⌇●﹏●⌇",
-                    "text": "吓死宝宝惹"
-                },
-                {
-                    "icon": "(ฅ´ω`ฅ)",
-                    "text": "已阅留爪"
-                },
-                {
-                    "icon": "(╯°A°)╯︵○○○",
-                    "text": "去吧大师球"
-                },
-                {
-                    "icon": "φ(￣∇￣o)",
-                    "text": "太萌惹"
-                },
-                {
-                    "icon": "ヾ(´･ ･｀｡)ノ\"",
-                    "text": "咦咦咦"
-                },
-                {
-                    "icon": "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃",
-                    "text": "气呼呼"
-                },
-                {
-                    "icon": "(ó﹏ò｡)",
-                    "text": "我受到了惊吓"
-                },
-                {
-                    "icon": "Σ(っ °Д °;)っ",
-                    "text": "什么鬼"
-                },
-                {
-                    "icon": "( ,,´･ω･)ﾉ\"(´っω･｀｡)",
-                    "text": "摸摸头"
-                },
-                {
-                    "icon": "╮(╯▽╰)╭ ",
-                    "text": "无奈"
-                },
-                {
-                    "icon": "o(*////▽////*)q ",
-                    "text": "脸红"
-                },
-                {
-                    "icon": "＞﹏＜",
-                    "text": ""
-                },
-                {
-                    "icon": "( ๑´•ω•) \"(ㆆᴗㆆ)",
-                    "text": ""
-                },
-                {
-                    "icon": "(｡•ˇ‸ˇ•｡)",
-                    "text": ""
-                }
-        ]
-    },
-    "Emoji": {
-        "type": "emoji",
-        "container": [
+   "颜文字": {
+    "type": "emotion",
+    "container": [
+      {
+        "icon": "OωO",
+        "text": "Author: DIYgod"
+      },
+      {
+        "icon": "|´・ω・)ノ",
+        "text": "Hi"
+      },
+      {
+        "icon": "ヾ(≧∇≦*)ゝ",
+        "text": "开心"
+      },
+      {
+        "icon": "(☆ω☆)",
+        "text": "星星眼"
+      },
+      {
+        "icon": "￣﹃￣",
+        "text": "流口水"
+      },
+      {
+        "icon": "(/ω＼)",
+        "text": "捂脸"
+      },
+      {
+        "icon": "(๑•̀ㅁ•́ฅ)",
+        "text": "Hi"
+      },
+      {
+        "icon": "→_→",
+        "text": "斜眼"
+      },
+      {
+        "icon": "୧(๑•̀⌄•́๑)૭",
+        "text": "加油"
+      },
+      {
+        "icon": "٩(ˊᗜˋ*)و",
+        "text": "有木有WiFi"
+      },
+      {
+        "icon": "(ノ°ο°)ノ",
+        "text": "前方高能预警"
+      },
+      {
+        "icon": "(´இ皿இ｀)",
+        "text": "我从未见过如此厚颜无耻之人"
+      },
+      {
+        "icon": "⌇●﹏●⌇",
+        "text": "吓死宝宝惹"
+      },
+      {
+        "icon": "(ฅ´ω`ฅ)",
+        "text": "已阅留爪"
+      },
+      {
+        "icon": "(╯°A°)╯︵○○○",
+        "text": "去吧大师球"
+      },
+      {
+        "icon": "φ(￣∇￣o)",
+        "text": "太萌惹"
+      },
+      {
+        "icon": "ヾ(´･ ･｀｡)ノ\"",
+        "text": "咦咦咦"
+      },
+      {
+        "icon": "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃",
+        "text": "气呼呼"
+      },
+      {
+        "icon": "(ó﹏ò｡)",
+        "text": "我受到了惊吓"
+      },
+      {
+        "icon": "Σ(っ °Д °;)っ",
+        "text": "什么鬼"
+      },
+      {
+        "icon": "╮(╯▽╰)╭ ",
+        "text": "无奈"
+      },
+      {
+        "icon": "o(*////▽////*)q ",
+        "text": "脸红"
+      },
+      {
+        "icon": "＞﹏＜",
+        "text": ""
+      },
+      {
+        "icon": "(｡•ˇ‸ˇ•｡)",
+        "text": ""
+      }
+    ]
+  },
+	  "贴吧":{
+    "type": "image",
+    "name": "paopao",
+    "container":[
+      {
+        "icon": "1",
+        "text": "泡泡"
+      },
+      {
+        "icon": "tieba_emotion_02",
+        "text": "泡泡"
+      },
+      {
+        "icon": "tieba_emotion_03",
+        "text": "泡泡"
+      },
+      {
+        "icon": "tieba_emotion_04",
+        "text": "泡泡"
+      },
+      {
+        "icon": "tieba_emotion_05",
+        "text": "泡泡"
+      },
+      {
+        "icon": "tieba_emotion_06",
+        "text": "泡泡"
+      },
+      {
+        "icon": "tieba_emotion_07",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_08",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_09",
+        "text": "泡泡"
+      },
+      {
+        "icon": "tieba_emotion_10",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_11",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_12",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_13",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_14",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_15",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_16",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_17",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_18",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_19",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_20",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_21",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_22",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_23",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_24",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_25",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_26",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_27",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_28",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_29",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_30",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_31",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_32",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_33",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_34",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_35",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_36",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_37",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_38",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_39",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_40",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_41",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_42",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_43",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_44",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_45",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_46",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_47",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_48",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_49",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_50",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_52",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_53",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_54",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_55",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_56",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_57",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_58",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_59",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_60",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_61",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_62",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_71",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_72",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_73",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_74",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_75",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_76",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_77",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_78",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_79",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_80",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_81",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_82",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_83",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_84",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_85",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_86",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_87",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_88",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_89",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_90",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_91",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_92",
+        "text": "泡泡"
+      },{
+        "icon": "tieba_emotion_93",
+        "text": "泡泡"
+    }
+    ]
+  },
+  "阿鲁": {
+    "name": "aru",
+    "type": "image",
+    "container": [
+      {
+        "icon": "despise",
+        "text": "鄙视"
+      },
+      {
+        "icon": "knife",
+        "text": "插刀"
+      },
+      {
+        "icon": "pouting",
+        "text": "亲嘴"
+      },
+      {
+        "icon": "shutup",
+        "text": "闭嘴"
+      },
+      {
+        "icon": "unhappy",
+        "text": "不开心"
+      },
+      {
+        "icon": "discovertruth",
+        "text": "发现真相"
+      },
+      {
+        "icon": "shit",
+        "text": "便便"
+      },
+      {
+        "icon": "distressed",
+        "text": "烦恼"
+      },
+      {
+        "icon": "shy",
+        "text": "捂脸"
+      },
+      {
+        "icon": "speechless",
+        "text": "无语"
+      },
+      {
+        "icon": "confuse",
+        "text": "迷惑"
+      },
+      {
+        "icon": "frown",
+        "text": "皱眉"
+      },
+      {
+        "icon": "proud",
+        "text": "得意"
+      },
+      {
+        "icon": "cheer",
+        "text": "欢呼"
+      },
+      {
+        "icon": "meditation",
+        "text": "沉思"
+      },
+      {
+        "icon": "diving",
+        "text": "潜水"
+      },
+      {
+        "icon": "cryingface",
+        "text": "掩面哭泣"
+      },
+      {
+        "icon": "lurking",
+        "text": "潜伏"
+      },
+      {
+        "icon": "thumb",
+        "text": "大拇指"
+      },
+      {
+        "icon": "smile",
+        "text": "微笑"
+      },
+      {
+        "icon": "clap",
+        "text": "拍掌"
+      },
+      {
+        "icon": "envious",
+        "text": "眼馋"
+      },
+      {
+        "icon": "surrender",
+        "text": "投降"
+      },
+      {
+        "icon": "bigeye",
+        "text": "大眼睛"
+      },
+      {
+        "icon": "nose",
+        "text": "抠鼻"
+      },
+      {
+        "icon": "sweat",
+        "text": "流汗"
+      },
+      {
+        "icon": "flower",
+        "text": "小花花"
+      },
+      {
+        "icon": "crying",
+        "text": "流泪"
+      },
+      {
+        "icon": "spit",
+        "text": "吐"
+      },
+      {
+        "icon": "surprised",
+        "text": "吃惊"
+      },
+      {
+        "icon": "blood",
+        "text": "一滩血"
+      },
+      {
+        "icon": "blood2",
+        "text": "吐血"
+      },
+      {
+        "icon": "shy2",
+        "text": "脸红"
+      },
+      {
+        "icon": "angry",
+        "text": "生气"
+      },
+      {
+        "icon": "nomatter",
+        "text": "无所谓"
+      },
+      {
+        "icon": "dead",
+        "text": "死翘翘"
+      },
+      {
+        "icon": "insidious",
+        "text": "阴险"
+      },
+      {
+        "icon": "tongue",
+        "text": "吐舌"
+      }
+
+    ]
+  },
+    "微博": {
+    "name": "weibo",
+    "type": "image",
+    "container": [
+      {
+        "icon": "aini",
+        "text": "爱你"
+      },
+      {
+        "icon": "aoteman",
+        "text": "奥特曼"
+      },
+      {
+        "icon": "baibai",
+        "text": "拜拜"
+      },
+      {
+        "icon": "beishang",
+        "text": "悲伤"
+      },
+      {
+        "icon": "bishi",
+        "text": "鄙视"
+      },
+      {
+        "icon": "bizui",
+        "text": "闭嘴"
+      },
+      {
+        "icon": "chanzui",
+        "text": "馋嘴"
+      },
+      {
+        "icon": "chijing",
+        "text": "吃惊"
+      },
+      {
+        "icon": "dahaqi",
+        "text": "打哈欠"
+      },
+      {
+        "icon": "dalian",
+        "text": "打脸"
+      },
+      {
+        "icon": "ding",
+        "text": "锤子"
+      },
+      {
+        "icon": "dog1",
+        "text": "狗"
+      },
+      {
+        "icon": "dog2",
+        "text": "狗的拜"
+      },
+      {
+        "icon": "dog3",
+        "text": "狗的拜"
+      },
+      {
+        "icon": "dog4",
+        "text": "纠结"
+      },
+      {
+        "icon": "dog5",
+        "text": "哭笑不得"
+      },
+      {
+        "icon": "dog6",
+        "text": "思考"
+      },
+      {
+        "icon": "dog7",
+        "text": "气愤"
+      },
+      {
+        "icon": "dog8",
+        "text": "苦笑不得"
+      },
+      {
+        "icon": "dog9",
+        "text": "调皮"
+      },
+      {
+        "icon": "dog10",
+        "text": "哭笑不得"
+      },
+      {
+        "icon": "dog11",
+        "text": "强颜欢笑"
+      },
+      {
+        "icon": "dog12",
+        "text": "有点意思"
+      },
+      {
+        "icon": "dog12",
+        "text": "有点意思"
+      },
+      {
+        "icon": "dog14",
+        "text": "哼"
+      },
+      {
+        "icon": "dog15",
+        "text": "惊讶"
+      },
+      {
+        "icon": "doge",
+        "text": "狗"
+      },
+      {
+        "icon": "feizao",
+        "text": "肥皂"
+      },
+      {
+        "icon": "ganmao",
+        "text": "感冒"
+      },
+      {
+        "icon": "geili",
+        "text": "给力"
+      },
+      {
+        "icon": "guzhang",
+        "text": "鼓掌"
+      },
+      {
+        "icon": "haha",
+        "text": "哈哈"
+      },
+      {
+        "icon": "haixiu",
+        "text": "害羞"
+      },
+      {
+        "icon": "hehe",
+        "text": "呵呵"
+      },
+      {
+        "icon": "heixian",
+        "text": "流汗"
+      },
+      {
+        "icon": "heng",
+        "text": "哼"
+      },
+      {
+        "icon": "huaxin",
+        "text": "花心"
+      },
+      {
+        "icon": "hufen",
+        "text": "互粉"
+      },
+      {
+        "icon": "huaxin",
+        "text": "花心"
+      },
+      {
+        "icon": "jiong",
+        "text": "囧"
+      },
+      {
+        "icon": "jiyan",
+        "text": "调皮"
+      },
+      {
+        "icon": "keai",
+        "text": "可爱"
+      },
+      {
+        "icon": "kelian",
+        "text": "可怜"
+      },
+      {
+        "icon": "ku",
+        "text": "酷"
+      },
+      {
+        "icon": "kun",
+        "text": "困"
+      },
+      {
+        "icon": "landelini",
+        "text": "懒得理你"
+      },
+      {
+        "icon": "lei",
+        "text": "流泪"
+      },
+      {
+        "icon": "meng",
+        "text": "萌"
+      },
+      {
+        "icon": "miao",
+        "text": "喵喵"
+      },
+      {
+        "icon": "nanhaier",
+        "text": "男孩"
+      },
+      {
+        "icon": "nu",
+        "text": "愤怒"
+      },
+      {
+        "icon": "numa",
+        "text": "怒骂"
+      },
+      {
+        "icon": "nvhaier",
+        "text": "女孩"
+      },
+      {
+        "icon": "qian",
+        "text": "贪财"
+      },
+      {
+        "icon": "qinqin",
+        "text": "亲亲"
+      },
+      {
+        "icon": "shayan",
+        "text": "傻眼"
+      },
+      {
+        "icon": "shengbing",
+        "text": "生病"
+      },
+      {
+        "icon": "shenma",
+        "text": "神马？"
+      },
+      {
+        "icon": "shenshou",
+        "text": "神兽"
+      },
+      {
+        "icon": "shiwang",
+        "text": "失望"
+      },
+      {
+        "icon": "shuai",
+        "text": "衰"
+      },
+      {
+        "icon": "shuijiao",
+        "text": "睡觉"
+      },
+      {
+        "icon": "sikao",
+        "text": "思考"
+      },
+      {
+        "icon": "taikaixin",
+        "text": "太开心"
+      },
+      {
+        "icon": "touxiao",
+        "text": "偷笑"
+      },
+      {
+        "icon": "tu",
+        "text": "吐"
+      },
+      {
+        "icon": "tuzi",
+        "text": "兔子"
+      },
+      {
+        "icon": "v5",
+        "text": "威武"
+      },
+      {
+        "icon": "wabishi",
+        "text": "抠鼻"
+      },
+      {
+        "icon": "weiqu",
+        "text": "委屈"
+      },
+      {
+        "icon": "xi",
+        "text": "囍"
+      },
+      {
+        "icon": "xiaoku",
+        "text": "笑哭"
+      },
+      {
+        "icon": "xiongmao",
+        "text": "熊猫"
+      },
+      {
+        "icon": "xixi",
+        "text": "嘻嘻"
+      },
+      {
+        "icon": "xu",
+        "text": "嘘"
+      },
+      {
+        "icon": "yinxian",
+        "text": "阴险"
+      },
+      {
+        "icon": "yiwen",
+        "text": "疑问"
+      },
+      {
+        "icon": "youhengheng",
+        "text": "右哼哼"
+      },
+      {
+        "icon": "yun",
+        "text": "晕"
+      },
+      {
+        "icon": "zhi",
+        "text": "织毛巾"
+      },
+      {
+        "icon": "zhuakuang",
+        "text": "抓狂"
+      },
+      {
+        "icon": "zhutou",
+        "text": "猪头"
+      },
+      {
+        "icon": "zuiyou",
+        "text": "看右边"
+      },
+      {
+        "icon": "zuohengheng",
+        "text": "左哼哼"
+      }
+    ]
+  },
+  "B站":{
+        "type": "image",
+        "name": "BZ",
+        "container":[
             {
-                "icon": "😂",
-                "text": ""
-            },
-            {
-                "icon": "😀",
-                "text": ""
-            },
-            {
-                "icon": "😅",
-                "text": ""
-            },
-            {
-                "icon": "😊",
-                "text": ""
-            },
-            {
-                "icon": "🙂",
-                "text": ""
-            },
-            {
-                "icon": "🙃",
-                "text": ""
-            },
-            {
-                "icon": "😌",
-                "text": ""
-            },
-            {
-                "icon": "😍",
-                "text": ""
-            },
-            {
-                "icon": "😘 ",
-                "text": ""
-            },
-            {
-                "icon": "😜",
-                "text": ""
-            },
-            {
-                "icon": "😝",
-                "text": ""
-            },
-            {
-                "icon": "😏",
-                "text": ""
-            },
-            {
-                "icon": "😒",
-                "text": ""
-            },
-            {
-                "icon": "🙄",
-                "text": ""
-            },
-            {
-                "icon": "😳 ",
-                "text": ""
-            },
-            {
-                "icon": "😡",
-                "text": ""
-            },
-            {
-                "icon": "😔",
-                "text": ""
-            },
-            {
-                "icon": "😫",
-                "text": ""
-            },
-            {
-                "icon": "😱",
-                "text": ""
-            },
-            {
-                "icon": "😭",
-                "text": ""
-            },
-            {
-                "icon": "💩",
-                "text": ""
-            },
-            {
-                "icon": "👻",
-                "text": ""
-            },
-            {
-                "icon": "🙌",
-                "text": ""
-            },
-            {
-                "icon": "🖕",
-                "text": ""
-            },
-            {
-                "icon": "👍",
-                "text": ""
-            },
-            {
-                "icon": "👫",
-                "text": ""
-            },
-            {
-                "icon": "👬",
-                "text": ""
-            },
-            {
-                "icon": "👭",
-                "text": ""
-            },
-            {
-                "icon": "🌚",
-                "text": ""
-            },
-            {
-                "icon": "🌝",
-                "text": ""
-            },
-            {
-                "icon": "🙈",
-                "text": ""
-            },
-            {
-                "icon": "💊",
-                "text": ""
-            },
-            {
-                "icon": "😶",
-                "text": ""
-            },
-            {
-                "icon": "🙏",
-                "text": ""
-            },
-            {
-                "icon": "🍦",
-                "text": ""
-            },
-            {
-                "icon": "🍉",
-                "text": ""
-            },
-            {
-                "icon": "😣",
-                "text": ""
+                "icon": "33_yiwen",
+                "text": "33娘_疑问"
+            },{
+                "icon": "22_yiwen",
+                "text": "22娘_疑问"
+            },{
+                "icon": "22_daxiao",
+                "text": "22娘_大笑"
+            },{
+                "icon": "33_han",
+                "text": "33娘_汗"
+            },{
+                "icon": "22_daku",
+                "text": "22娘_大哭"
+            },{
+                "icon": "33_hecha",
+                "text": "33娘_喝茶"
+            },{
+                "icon": "33_no1",
+                "text": "33娘_第一"
+            },{
+                "icon": "22_yumen",
+                "text": "22娘_郁闷"
+            },{
+                "icon": "22_weiqu",
+                "text": "22娘_委屈"
+            },{
+                "icon": "22_chijing",
+                "text": "22娘_吃惊"
+            },{
+                "icon": "33_maimeng",
+                "text": "33娘_卖萌"
+            },{
+                "icon": "33_yeah",
+                "text": "33娘_耶"
+            },{
+                "icon": "33_tuhun",
+                "text": "33娘_吐魂"
+            },{
+                "icon": "22_nu",
+                "text": "22娘_怒"
+            },{
+                "icon": "33_wuyan",
+                "text": "33娘_无言"
+            },{
+                "icon": "ds_xiao",
+                "text": "小电视_笑"
+            },{
+                "icon": "ds_han",
+                "text": "小电视_汗"
+            },{
+                "icon": "ds_fachou",
+                "text": "小电视_发愁"
+            },{
+                "icon": "ds_duzui",
+                "text": "小电视_嘟嘴"
+            },{
+                "icon": "ds_haonua",
+                "text": "小电视_好怒啊"
+            },{
+                "icon": "ds_zan",
+                "text": "小电视_赞"
+            },{
+                "icon": "ds_kuqi",
+                "text": "小电视_哭泣"
+            },{
+                "icon": "ds_chaping",
+                "text": "小电视_差评"
+            },{
+                "icon": "ds_chijing",
+                "text": "小电视_吃惊"
+            },{
+                "icon": "ds_kunhuo",
+                "text": "小电视_困惑"
+            },{
+                "icon": "ds_xf",
+                "text": "小电视_我好兴奋"
+            },{
+                "icon": "ds_haixiu",
+                "text": "小电视_害羞"
+            },{
+                "icon": "ds_ttlike",
+                "text": "小电视_太太喜欢"
+            },{
+                "icon": "ds_sisuo",
+                "text": "小电视_思索"
+            },{
+                "icon": "re_miao",
+                "text": "妙"
+            },{
+                "icon": "re_hai",
+                "text": "害"
+            },{
+                "icon": "re_ynwl",
+                "text": "有内味了"
+            },{
+                "icon": "re_gaochan",
+                "text": "高产"
+            },{
+                "icon": "re_wkl",
+                "text": "我枯了"
+            },{
+                "icon": "re_bksn",
+                "text": "不愧是你"
+            },{
+                "icon": "re_chui",
+                "text": "锤"
+            },{
+                "icon": "re_xiu",
+                "text": "秀"
+            },{
+                "icon": "re_nxp",
+                "text": "你细品"
+            },{
+                "icon": "re_daka",
+                "text": "打卡"
+            },{
+                "icon": "re_suan",
+                "text": "酸了"
+            },{
+                "icon": "re_qgzs",
+                "text": "知识增加"
+            },{
+                "icon": "re_wtnl",
+                "text": "我太男了"
+            },{
+                "icon": "re_cb",
+                "text": "吹爆"
+            },{
+                "icon": "re_keyi",
+                "text": "可以"
+            },{
+                "icon": "re_olg",
+                "text": "奥力给"
+            },{
+                "icon": "re_awsl",
+                "text": "AWSL"
+            },{
+                "icon": "re_zxa",
+                "text": "真香"
+            },{
+                "icon": "re_zsmq",
+                "text": "知识盲区"
+            },{
+                "icon": "re_mnbk",
+                "text": "猛男必看"
             }
         ]
     },
